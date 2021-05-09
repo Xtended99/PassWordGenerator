@@ -18,4 +18,6 @@
   I.   High level insturctions on how to use the tool.  
   II.  Pictures of each screen accompanied by a caption below each image.  
   
-  % True Happiness
+[click on this link](#my-multi-word-header)
+
+### My Multi Word Header
