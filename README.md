@@ -14,9 +14,20 @@
   
   Here is a quick synopsis on what is included in this README    
   
-  I.  [The goal for PassWord Generator acomplishes.](#goal)   
+  I.  [The goal for PassWord Generator.](#goal)   
   I.  [High level insturctions on how to use the tool.](#highlevel)  
   II. [Pictures of each screen accompanied by a caption below each image.](#pictures)  
+  
+  PassWordGenerator is a tool that has been to satisfy simple password encrytpion needs. Basically  
+  
+  ### goal
+  The tool can create a password using:  
+     1. Alphabetic characters upper and lower case for example ABC and or abc.  
+     2. Numeric characters ranging from 0 - 9  
+     3. The punctuation characters that would normally exist in the english language. I call these special characters.  
+     4. A dedicated series of characters made up of numbers or special or characters or Alphabetic upper and lower case.
+     5. Or a combination of two or more character types or all character types.
+  
   
 [click on this link](#my-multi-word-header)
 
