@@ -50,5 +50,13 @@
      4. All character dialog  - If you pikc this dialog you will not be prompted with any other choices.  
      
 ![portfolio demo](./appimages/uppercase.png)  
-     5. 
-     6. 
+     5. Upper case dialog  
+
+![portfolio demo](./appimages/lowercasecase.png)  
+     7. Lower case dialog  
+
+![portfolio demo](./appimages/specialcharacter.png)  
+     8. Special characters dialog  
+
+![portfolio demo](./appimages/didntchoose.png)  
+     9. This dialog appears if you did not pick a character type.
