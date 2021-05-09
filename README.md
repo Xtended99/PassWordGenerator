@@ -16,7 +16,7 @@
   
   I.  [The goal for PassWord Generator.](#goal)   
   I.  [High level insturctions on how to use the tool accompaqnied with images.](#highlevel)  
-  II. [Detailed pictures of each screen accompanied by a caption below each image.](#detailed-instructions-)  
+  II. [Detailed pictures of each screen accompanied by a caption below each image.](#detailed-instructions)  
   
   PassWordGenerator is a tool that has been to satisfy simple password encrytpion needs. Basically  
   
