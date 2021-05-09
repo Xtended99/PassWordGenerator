@@ -40,8 +40,10 @@
      1. Main View  
      
  ![portfolio demo](./appimages/initialdialog.png)  
-     ### 2. Greeting Screen
+     2. Greeting Screen  
  
+ ![portfolio demo](./appimages/passwordsize.png)  
+     3. Password Size dialog - Pick a from 8 - 128 characters long
  
  
      3. 
