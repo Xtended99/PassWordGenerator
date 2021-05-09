@@ -9,13 +9,13 @@
 
 ![portfolio demo](./passwordgenerator.png)
 
-  This assignment is to create a password generator that can create passowrd based on severla types of chracters.  
-  The tool is striclty created Javascript, HTML and CSS.  
+  This assignment is to create a password generator that can create passowrds based on several types of characters.  
+  The tool is striclty created in Javascript, HTML and CSS.  
   
-  Here is a quick synopsis what this README includes.  
+  Here is a quick synopsis on what is included in this README    
   
-  I.   The need the tool addresses.  
+  I.   The goal for PassWord Generator acomplishes.  
   I.   High level insturctions on how to use the tool.  
-  II.  Pictures of each screen accompanied by caption detail below each image.  
+  II.  Pictures of each screen accompanied by a caption below each image.  
   
-  -
+  
