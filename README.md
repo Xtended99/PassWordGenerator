@@ -61,5 +61,5 @@
 ![portfolio demo](./appimages/didntchoose.png)  
      9. **Did Not** pick dialog. This dialog appears if you did not pick a character type.  
  
-Have fun and enjoy!!
-Angel Sosa
+Have fun and enjoy!!  
+   Angel Sosa
