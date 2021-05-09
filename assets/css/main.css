@@ -1,0 +1,132 @@
+
+
+
+/* Please see the main index.html for the source of the code included in this CSS style sheet
+ * Thank You 
+ *    Angel Sosa
+ * Below you will find several comments describing the different pieces of the this CSS file.
+ */
+
+
+/* This the asterisk stanza says to apply the font family and the letter spacing */
+
+      *
+         {
+          font-family: Consolas,monaco,monospace;
+          letter-spacing: .1pX;
+         }
+
+
+
+/* I wrote this style sheet by in Tiered in three boxes, The three boxes are nested three deep*/
+
+       div.outer_box_shadow
+         {
+          display: flex;
+          flex: 0 1 auto;
+          flex-flow: row wrap;
+          margin: 140px 180px 0px 200px;
+          height: 490px;
+          border: 1px solid lightgrey;
+          box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+          text-align: center;
+          min-width: 10%;
+          max-width: 66%;
+          float: right;
+         }
+
+       div.inner_box_shadow
+         {
+          flex: 0 1 auto;
+          margin: 30px 20px 20px 36px;
+          height: 385px;
+          border-top: 2px solid lightgrey;
+          border-bottom: 0px solid lightgrey;
+          border-left: 0px solid grey;
+          border-right: 0px solid grey;
+          box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+          min-width: 5%;
+          max-width: 100%;
+         }
+
+       div.inner_most_box_shadow
+         {
+          margin: 25px 20px 0px 20px;
+          height: 170px;
+          border: 1px solid blue;
+          border-top: 2px solid lightgrey;
+          border-bottom: 2px solid lightgrey;
+          border-left: 0px solid lightgrey;
+          border-right: 0px solid lightgrey;
+         }
+
+
+/* These are my header elements */
+
+       h1
+        {
+         text-align: center;
+         font-size: 37.5px;
+         margin: 10px 0px 0px 0px;
+         flex: 100 1 auto;
+         font-size: 2.85vw;
+        }
+
+       h2
+        {
+         text-align: left;
+         font-size: 30.5px;
+         padding: 20px 0px 0px 10px;
+         font-size: 2.5vw;
+        }
+
+
+/* This div element is just to set margin limits on all the two divs included */
+
+       div
+          {
+           margin: 0px 0px 5px 0px;
+          }
+
+/* This div element is what houses  the button element and provides it its own bouderies to operate in */
+
+       div.submit_container
+          {
+           display: flex;
+           padding: 20px 20px 20px 254px;
+           display: line;
+           float: center;
+           flex: 10 10 0px;
+           justify-content: center;
+          }
+
+/* This is the definition of the button */
+
+       button
+          {
+           margin: 0px 250px 0px 0px;
+           height: 53px;
+           border-radius: 30px;
+           font-size: 22.5px;
+           color: white;
+           background-color: firebrick;
+           font-size: 1.85vw;
+          }
+
+/* This p element is the paragraph element that houses the output of the generated password */
+
+      p
+         {
+          height: 150px;
+          margin: 6px 0% 0px 0%;
+          resize: none;
+          border-radius: 10px;
+          border-style: dashed;
+          border-width: 3px 3px 3px 3px;
+          border-color: lightgrey;
+          font-size: 18px;
+          word-wrap: none;
+          text-wrap: unrestricted;
+          text-align: left;
+          font-size: calc( 2 * ( .5vw + .6vh ) );
+         }
