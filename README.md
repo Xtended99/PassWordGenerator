@@ -40,7 +40,7 @@
      1. Main View  
      
  ![portfolio demo](./appimages/initialdialog.png)  
-     2. Greeting Screen
+     2. ### Greeting Screen
  
  
  
