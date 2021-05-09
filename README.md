@@ -38,7 +38,8 @@
   ### Detailed Instructions
      1. Main View
  ![portfolio demo](./appimages/passwordgenerator.png)
- 
+     2. Greeting Screen
+ ![portfolio demo](./appimages/initialdialog.png)
  
  
  
