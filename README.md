@@ -14,9 +14,9 @@
   
   Here is a quick synopsis on what is included in this README    
   
-  I.   The goal for PassWord Generator acomplishes.  
-  I.   High level insturctions on how to use the tool.  
-  II.  Pictures of each screen accompanied by a caption below each image.  
+  I.  [click on this link](#goal) The goal for PassWord Generator acomplishes.  
+  I.  [click on this link](#highlevel) High level insturctions on how to use the tool.  
+  II. [click on this link](#pictures) Pictures of each screen accompanied by a caption below each image.  
   
 [click on this link](#my-multi-word-header)
 
