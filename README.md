@@ -37,16 +37,16 @@
   
   ### Detailed Instructions  
   
-  ![portfolio demo](./appimages/passwordgenerator.png)  
+![portfolio demo](./appimages/passwordgenerator.png)  
      1. **Main View**  
      
- ![portfolio demo](./appimages/initialdialog.png)  
+![portfolio demo](./appimages/initialdialog.png)  
      2. **Greeting Screen dialog.  
  
- ![portfolio demo](./appimages/passwordsize.png)  
+![portfolio demo](./appimages/passwordsize.png)  
      3. **Password Size** dialog - Pick a size from 8 - 128 characters long.   
  
- ![portfolio demo](./appimages/choseallcharacter.png)  
+![portfolio demo](./appimages/choseallcharacter.png)  
      4. **All character** dialog  - If you pikc this dialog you will not be prompted with any other choices.  
      
 ![portfolio demo](./appimages/uppercase.png)  
@@ -60,3 +60,4 @@
 
 ![portfolio demo](./appimages/didntchoose.png)  
      9. **Did Not** pick dialog. This dialog appears if you did not pick a character type.  
+ 
