@@ -36,11 +36,11 @@
      5. The password genration tool will generate your password and displayed in the main tool box.
   
   ### Detailed Instructions
+  ![portfolio demo](./appimages/passwordgenerator.png)  
      1. Main View  
- ![portfolio demo](./appimages/passwordgenerator.png)  
-     2.                                                   Greeting Screen
- ![portfolio demo](./appimages/initialdialog.png)
- 
+     
+ ![portfolio demo](./appimages/initialdialog.png)  
+     2. Greeting Screen
  
  
  
