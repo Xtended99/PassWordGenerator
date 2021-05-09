@@ -49,10 +49,10 @@
 ![portfolio demo](./appimages/choseallcharacter.png)  
      4. **All character** dialog  - If you pikc this dialog you will not be prompted with any other choices.  
      
-![portfolio demo](./appimages/uppercase.png)  
+![portfolio demo](./appimages/didntchoose.png)  
      5. **Upper** case dialog.  
 
-![portfolio demo](./appimages/lowercase.png)  
+![portfolio demo](./appimages/didntchoose.png)  
      7. **Lower** case dialog.  
 
 ![portfolio demo](./appimages/specialcharacter.png)  
