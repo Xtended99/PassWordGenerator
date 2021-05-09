@@ -35,7 +35,8 @@
      4. Once you have selected all of the character types you would like included,
      5. The password genration tool will generate your password and displayed in the main tool box.
   
-  ### Detailed Instructions
+  ### Detailed Instructions  
+  
   ![portfolio demo](./appimages/passwordgenerator.png)  
      1. Main View  
      
@@ -43,8 +44,11 @@
      2. Greeting Screen  
  
  ![portfolio demo](./appimages/passwordsize.png)  
-     3. Password Size dialog - Pick a from 8 - 128 characters long
+     3. Password Size dialog - Pick a size from 8 - 128 characters long   
  
- 
-     3. 
-     4. 
+ ![portfolio demo](./appimages/choseallcharacter.png)  
+     4. All character dialog  - If you pikc this dialog you will not be prompted with any other choices.  
+     
+![portfolio demo](./appimages/uppercase.png)  
+     5. 
+     6. 
