@@ -41,7 +41,7 @@
      1. **Main View**  
      
 ![portfolio demo](./appimages/initialdialog.png)  
-     2. **Greeting Screen dialog.  
+     2. **Greeting** Screen dialog.  
  
 ![portfolio demo](./appimages/passwordsize.png)  
      3. **Password Size** dialog - Pick a size from 8 - 128 characters long.   
@@ -61,3 +61,5 @@
 ![portfolio demo](./appimages/didntchoose.png)  
      9. **Did Not** pick dialog. This dialog appears if you did not pick a character type.  
  
+Have fun and enjoy!!
+Angel Sosa
