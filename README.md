@@ -31,8 +31,17 @@
   ### HighLevel
      1. Launch the tool by going to the following link https://xtended99.github.io/PassWordGenerator/  
      2. Once loaded depress the RED password generation button.  
-     3. You will then see a series of pop ups that expplain what to expect and how to interact with the tool.  
+     3. You will then see a series of pop ups that explain what to expect and how to interact with the tool.  
      4. Once you have selected all of the character types you would like included,
-     5. The password genration tool will generate your password.  
+     5. The password genration tool will generate your password and displayed in the main tool box.
   
   ### Detailed Instructions
+     1. Main View
+ ![portfolio demo](./appimages/passwordgenerator.png)
+ 
+ 
+ 
+ 
+ 
+     3. 
+     4. 
