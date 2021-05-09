@@ -20,7 +20,7 @@
   
   PassWordGenerator is a tool that has been to satisfy simple password encrytpion needs. Basically  
   
-  ### goal
+  ### Goal
   The tool can create a password using:  
      1. Alphabetic characters upper and lower case for example ABC and or abc.  
      2. Numeric characters ranging from 0 - 9  
