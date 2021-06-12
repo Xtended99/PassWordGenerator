@@ -5,7 +5,7 @@
 declare -a git_repos=( "CoffeeOverFlow" "HW_1_4_24_2021_AS" "PassWordGenerator" "QuestionGame" "TestRepo" "The-One-Day-Scheduler" "WeatherDashBoard" "WorkReference" )
 
 
-for (( i = 0; i < 5; i ++ ))
+for (( i = 0; i < 8; i ++ ))
    {
     echo $( pwd )
     sync
