@@ -1,7 +1,7 @@
 #!/bin/bash
 
 
-declare -a git_repos=("CoffeeOverFlow" "HW_1_4_24_2021_AS" "LDAP-Attribute-Accounting-COMPOSER" "PassWordGame" "PassWordGenerator" "PreWork" "QuestionGame" "TestRepo" "The-One-Day-Scheduler" "WeatherDashBoard" "WorkReference" )
+declare -a git_repos=("CoffeeOverFlow" "HW_1_4_24_2021_AS" "PassWordGenerator" "PreWork" "QuestionGame" "TestRepo" "The-One-Day-Scheduler" "WeatherDashBoard" "WorkReference" )
 
 
 for (( i = 0; i < 11; i ++ ))
