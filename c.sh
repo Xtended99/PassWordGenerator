@@ -5,19 +5,21 @@
 declare -a git_repos=( "CoffeeOverFlow" "HW_1_4_24_2021_AS" "PassWordGenerator" "QuestionGame" "TestRepo" "The-One-Day-Scheduler" "WeatherDashBoard" "WorkReference" )
 
 
-for (( i = 0; i < 8; i ++ ))
+for (( j = 0; j <= 299; j++ ))
    {
-    echo $( pwd )
-    sync
-    cd ${git_repos[i]}
-    echo $( pwd )
-    sync
-    echo "" >> README.md;git add --all; git commit -m ${git_repos[i]}; git push origin main
-    echo $( pwd )
-    cd ..
-    echo $( pwd )
-   }
-
+    for (( i = 0; i < 8; i ++ ))
+       {
+        echo $( pwd )
+        sync
+        cd ${git_repos[i]}
+        echo $( pwd )
+        sync
+        echo "" >> README.md;git add --all; git commit -m ${git_repos[i]}; git push origin main
+        echo $( pwd )
+        cd ..
+        echo $( pwd )
+       }
+      }
 ## // CoffeeOverFlow
 ## // Git_Short_Cuts
 ## // HW_1_4_24_2021_AS
