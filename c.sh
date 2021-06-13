@@ -5,7 +5,7 @@
 declare -a git_repos=( "CoffeeOverFlow" "HW_1_4_24_2021_AS" "PassWordGenerator" "QuestionGame" "TestRepo" "The-One-Day-Scheduler" "WeatherDashBoard" "WorkReference" )
 
 
-for (( j = 0; j <= 299; j++ ))
+for (( j = 0; j <= 1; j++ ))
    {
     for (( i = 0; i < 8; i ++ ))
        {
